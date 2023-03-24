@@ -1,3 +1,5 @@
+IDEALIZAÇÃO DA INTERFACE/FRONT-END BÁSICO: https://imgur.com/a/CNNWSFi
+
 ```csharp
 
 // Produtos: //
