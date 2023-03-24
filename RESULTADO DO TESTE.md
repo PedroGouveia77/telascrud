@@ -1,6 +1,4 @@
 ```csharp
-// Seu código em C# aqui
-```
 
 // Produtos: //
 
@@ -41,7 +39,6 @@ CREATE TABLE "pedidos_itens" (
 );
 
 
-
 //////////////////////// FUNÇÕES DAS TABELAS ///////////////////////////
 
 //Produto://
@@ -75,6 +72,7 @@ public string InsertPedidoItem(string pedidoId, string produtoId, int quantidade
     string query = "INSERT INTO pedidos_itens (pedidos_id, produtos_id, quantidade, valor) VALUES ('" + pedidoId + "', '" + produtoId + "', " + quantidade + ", " + valor.ToString("0.00", CultureInfo.InvariantCulture) + ")";
     return query;
 }
+
 ```
 
 //////////////////////////////////////FUNÇÕES DAS QUERYS PARA O SQL///////////////////////////////////////////////////////
