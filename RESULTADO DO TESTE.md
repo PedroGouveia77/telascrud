@@ -1,4 +1,4 @@
-IDEALIZAÇÃO DA INTERFACE/FRONT-END BÁSICO: https://imgur.com/a/CNNWSFi
+IDEALIZAÇÃO DA INTERFACE/FRONT-END BÁSICO: https://imgur.com/pf8lErg
 
 ```csharp
 
